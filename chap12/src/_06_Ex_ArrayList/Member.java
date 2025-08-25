@@ -1,4 +1,4 @@
-package ex2;
+package _06_Ex_ArrayList;
 
 /*
    Member
